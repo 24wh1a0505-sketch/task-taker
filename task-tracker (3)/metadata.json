@@ -1,0 +1,6 @@
+{
+  "name": "Task Tracker",
+  "description": "A simple, responsive, and lightweight task tracker web application using HTML, CSS, and vanilla JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
